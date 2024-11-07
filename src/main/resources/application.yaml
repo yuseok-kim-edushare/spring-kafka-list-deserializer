@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kafka
+  kafka:
+    consumer:
+      group-id: kafka
+      bootstrap-servers: localhost:9092
